@@ -1,0 +1,15 @@
+open cmd type: 
+
+npm install -g localtunnel
+
+open a new cmd type:
+
+cd C:/ (folder directory)
+
+npm i
+
+
+
+
+
+
